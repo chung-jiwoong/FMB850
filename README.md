@@ -13,7 +13,10 @@
 [2. 사모펀드의 역사](https://chung-jiwoong.github.io/FMB850/notes/02_사모펀드역사.pdf) 
 
 
-
+<br>
+<br>
+<br>
+<br>
 
 ## 참고자료
 [2024년 기관전용 사모펀드 운용 현황 및 시사점](https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=195412&menuNo=200218&cl1Cd=&sdate=&edate=&searchCnd=1&searchWrd=&pageIndex=1) 
