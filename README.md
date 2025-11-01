@@ -4,7 +4,7 @@
 
 - 강의 노트는 지속적으로 업데이트됩니다. 각 강의 전에 최신 버전을 확인해 주세요.
 
-- 수업 전 사전 조사 [링크](https://docs.google.com/forms/d/15lgpull_4hzaZi3zro42Kbu8aM3tLF16WFNVolRVm2A/edit)
+- 수업 사전 조사 [링크](https://docs.google.com/forms/d/15lgpull_4hzaZi3zro42Kbu8aM3tLF16WFNVolRVm2A/edit)
 
 - 11월 3일 월요일 오후 7시, 임유철 대표 특강 참여 여부 [설문링크](https://docs.google.com/spreadsheets/d/1NOt3emmygYnXP8BcBzmUBXEhpf6jjlcgIBdW_KTSve4/edit?usp=sharing)
 
