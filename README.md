@@ -19,7 +19,7 @@
 
 [3. 인수 사례](https://chung-jiwoong.github.io/FMB850/notes/03_인수사례.pdf) 
 
-[4 관련 이슈](https://chung-jiwoong.github.io/FMB850/notes/04_관련이슈.pdf) 
+[4. 관련 이슈](https://chung-jiwoong.github.io/FMB850/notes/04_관련이슈.pdf) 
 
 [5. 보수 체계](https://chung-jiwoong.github.io/FMB850/notes/05_보수체계.pdf) 
 
