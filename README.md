@@ -6,8 +6,6 @@
 
 - 수업 사전 조사 [링크](https://docs.google.com/forms/d/15lgpull_4hzaZi3zro42Kbu8aM3tLF16WFNVolRVm2A/edit)
 
-- 11월 3일 월요일 오후 7시, 임유철 대표 특강 참여 여부 [설문링크](https://docs.google.com/spreadsheets/d/1NOt3emmygYnXP8BcBzmUBXEhpf6jjlcgIBdW_KTSve4/edit?usp=sharing)
-
 
 ---
 
@@ -46,8 +44,11 @@
 
 [ILPA Private Equity Principles & Best Practices](https://ilpa.org/industry-guidance/principles-best-practices/) 
 
-<!--Bain and Company Global Private Equity Report, 2024
+[사모투자전문회사 사원 간 계약의 주요 내용](https://share.google/4WTEuPLOs19cFlnot)
+
+<!--
+Bain and Company Global Private Equity Report, 2024
 삼일PwC경영연구원, 2023, “K-PE(Korea Private Equity)의 현주소”
 Gompers and Kaplan, 2022, “Advanced Introduction to Private Equity”
 Jenkinson, Kim, and Weisbach, 2023, “Buyouts: A Primer”
->
+-->
