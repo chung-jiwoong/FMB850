@@ -46,6 +46,8 @@
 
 [사모투자전문회사 사원 간 계약의 주요 내용](https://share.google/4WTEuPLOs19cFlnot)
 
+[국내PE 20년의성과평가와향후과제](https://share.google/zT1HGA9y8xchmpnbP)
+
 <!--
 Bain and Company Global Private Equity Report, 2024
 삼일PwC경영연구원, 2023, “K-PE(Korea Private Equity)의 현주소”
