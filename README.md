@@ -23,6 +23,10 @@
 
 [6. LPA](https://chung-jiwoong.github.io/FMB850/notes/06_LPA.pdf) 
 
+[7. 투자절차](https://chung-jiwoong.github.io/FMB850/notes/07_투자절차.pdf) 
+
+[8. 가치창출 I](https://chung-jiwoong.github.io/FMB850/notes/08_가치창출1.pdf) 
+
 
 <br>
 <br>
@@ -47,6 +51,14 @@
 [사모투자전문회사 사원 간 계약의 주요 내용](https://share.google/4WTEuPLOs19cFlnot)
 
 [국내PE 20년의성과평가와향후과제](https://share.google/zT1HGA9y8xchmpnbP)
+
+[미국 사모펀드 시장 규제변화 및 시사점](https://www.kcmi.re.kr/publications/pub_detail_view?syear=2025&zcd=002001016&zno=1849&cno=6546)
+
+[국내 PEF의 가치제고와 투자성과 분석: 제도 도입 20년의 평가](https://www.kcmi.re.kr/report/report_view?report_no=1802)
+
+[주식매매계약서 샘플](https://share.google/PJ2WyhcLcJUt6VGVj)
+
+[What Every Company Can Learn from Private Equity](https://hbr.org/2025/11/what-every-company-can-learn-from-private-equity)
 
 <!--
 Bain and Company Global Private Equity Report, 2024
