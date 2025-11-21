@@ -11,21 +11,21 @@
 
 ## 강의 노트
 
-[1. 사모펀드의 정의](https://chung-jiwoong.github.io/FMB850/notes/01_사모펀드정의.pdf) 
+1. [사모펀드의 정의](https://chung-jiwoong.github.io/FMB850/notes/01_사모펀드정의.pdf) 
 
-[2. 사모펀드의 역사](https://chung-jiwoong.github.io/FMB850/notes/02_사모펀드역사.pdf) 
+2. [사모펀드의 역사](https://chung-jiwoong.github.io/FMB850/notes/02_사모펀드역사.pdf) 
 
-[3. 인수 사례](https://chung-jiwoong.github.io/FMB850/notes/03_인수사례.pdf) 
+3. [인수 사례](https://chung-jiwoong.github.io/FMB850/notes/03_인수사례.pdf) 
 
-[4. 관련 이슈](https://chung-jiwoong.github.io/FMB850/notes/04_관련이슈.pdf) 
+4. [관련 이슈](https://chung-jiwoong.github.io/FMB850/notes/04_관련이슈.pdf) 
 
-[5. 보수 체계](https://chung-jiwoong.github.io/FMB850/notes/05_보수체계.pdf) 
+5. [보수 체계](https://chung-jiwoong.github.io/FMB850/notes/05_보수체계.pdf) 
 
-[6. LPA](https://chung-jiwoong.github.io/FMB850/notes/06_LPA.pdf) 
+6. [LPA](https://chung-jiwoong.github.io/FMB850/notes/06_LPA.pdf) 
 
-[7. 투자절차](https://chung-jiwoong.github.io/FMB850/notes/07_투자절차.pdf) 
+7. [투자절차](https://chung-jiwoong.github.io/FMB850/notes/07_투자절차.pdf) 
 
-[8. 가치창출 I](https://chung-jiwoong.github.io/FMB850/notes/08_가치창출1.pdf) 
+8. [가치창출 I](https://chung-jiwoong.github.io/FMB850/notes/08_가치창출1.pdf), [가치창출 II](https://chung-jiwoong.github.io/FMB850/notes/08_가치창출1.pdf) 
 
 
 <br>
