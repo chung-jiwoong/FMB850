@@ -25,7 +25,7 @@
 
 7. [투자절차](https://chung-jiwoong.github.io/FMB850/notes/07_투자절차.pdf) 
 
-8. [가치창출 I](https://chung-jiwoong.github.io/FMB850/notes/08_가치창출1.pdf), [가치창출 II](https://chung-jiwoong.github.io/FMB850/notes/08_가치창출1.pdf) 
+8. [가치창출 I](https://chung-jiwoong.github.io/FMB850/notes/08_가치창출1.pdf), [가치창출 II](https://chung-jiwoong.github.io/FMB850/notes/08_가치창출2.pdf) 
 
 
 <br>
