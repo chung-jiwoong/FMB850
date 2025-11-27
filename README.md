@@ -27,7 +27,7 @@
 
 8. [가치창출 I](https://chung-jiwoong.github.io/FMB850/notes/08_가치창출1.pdf), [가치창출 II](https://chung-jiwoong.github.io/FMB850/notes/08_가치창출2.pdf) 
 
-9. [가치평가](https://chung-jiwoong.github.io/FMB850/notes/09_가치평가.pdf), [APV](https://chung-jiwoong.github.io/FMB850/notes/09_APV.xlsx), [LBO Model](https://chung-jiwoong.github.io/FMB850/notes/09_LBO_modeling_2018.xlsx)
+9. [가치평가](https://chung-jiwoong.github.io/FMB850/notes/09_가치평가.pdf), [APV 스프레드시트](https://chung-jiwoong.github.io/FMB850/notes/09_APV.xlsx), [LBO Model 스프레드 시트](https://chung-jiwoong.github.io/FMB850/notes/09_LBO_modeling_2018.xlsx)
 
 <br>
 <br>
