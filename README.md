@@ -27,7 +27,7 @@
 
 8. [가치창출 I](https://chung-jiwoong.github.io/FMB850/notes/08_가치창출1.pdf), [가치창출 II](https://chung-jiwoong.github.io/FMB850/notes/08_가치창출2.pdf) 
 
-9. [가치평가](https://chung-jiwoong.github.io/FMB850/notes/09_가치평가.pdf) 
+9. [가치평가](https://chung-jiwoong.github.io/FMB850/notes/09_가치평가.pdf), [APV](https://chung-jiwoong.github.io/FMB850/notes/09_APV.xlsx), [LBO Model](https://chung-jiwoong.github.io/FMB850/notes/09_LBO_modeling_2018.xlsx)
 
 <br>
 <br>
@@ -63,6 +63,10 @@
 
 [자산운용 법규 실무안내, 2018년](https://eiec.kdi.re.kr/policy/materialView.do?num=174501)
 [자산운용 법규 실무안내, 2022년](https://inpyeonglaw.com/archives/21131/)
+
+
+[INSEAD Value Creation 2.0](https://www.insead.edu/sites/default/files/assets/dept/centres/emi/docs/value-creation-2-0.pdf)
+
 
 <!--
 Bain and Company Global Private Equity Report, 2024
