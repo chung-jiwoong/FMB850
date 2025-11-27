@@ -27,6 +27,7 @@
 
 8. [가치창출 I](https://chung-jiwoong.github.io/FMB850/notes/08_가치창출1.pdf), [가치창출 II](https://chung-jiwoong.github.io/FMB850/notes/08_가치창출2.pdf) 
 
+9. [가치평가](https://chung-jiwoong.github.io/FMB850/notes/09_가치평가.pdf) 
 
 <br>
 <br>
@@ -59,6 +60,9 @@
 [주식매매계약서 샘플](https://share.google/PJ2WyhcLcJUt6VGVj)
 
 [What Every Company Can Learn from Private Equity](https://hbr.org/2025/11/what-every-company-can-learn-from-private-equity)
+
+[자산운용 법규 실무안내, 2018년](https://eiec.kdi.re.kr/policy/materialView.do?num=174501)
+[자산운용 법규 실무안내, 2022년](https://inpyeonglaw.com/archives/21131/)
 
 <!--
 Bain and Company Global Private Equity Report, 2024
