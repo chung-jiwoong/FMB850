@@ -29,6 +29,12 @@
 
 9. [가치평가](https://chung-jiwoong.github.io/FMB850/notes/09_가치평가.pdf), [APV 스프레드시트](https://chung-jiwoong.github.io/FMB850/notes/09_APV.xlsx), [LBO Model 스프레드 시트](https://chung-jiwoong.github.io/FMB850/notes/09_LBO_modeling_2018.xlsx)
 
+
+10. [성과측정](https://chung-jiwoong.github.io/FMB850/notes/10_성과측정.pdf)
+
+
+
+
 <br>
 <br>
 <br>
@@ -67,6 +73,9 @@
 
 [INSEAD Value Creation 2.0](https://www.insead.edu/sites/default/files/assets/dept/centres/emi/docs/value-creation-2-0.pdf)
 
+[INSEAD Measuring Private Equity Fund Performance](https://www.insead.edu/sites/default/files/assets/dept/centres/gpei/docs/Measuring_PE_Fund-Performance-2019.pdf)
+
+[Performance Measures in Private Equity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4595553)
 
 <!--
 Bain and Company Global Private Equity Report, 2024
